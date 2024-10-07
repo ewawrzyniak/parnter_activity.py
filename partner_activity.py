@@ -36,5 +36,3 @@ print(orange_quantity)
 #Sum up all the quantities in the warehouse
 totalW= sum(product_inventory["warehouse1"]["quantities"])+ sum(product_inventory["warehouse2"]["quantities"])
 print(totalW)
-
-#Emily 
