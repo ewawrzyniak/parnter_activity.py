@@ -26,7 +26,7 @@ backwardsList =list(reversed(listofWords))
 print(" ".join(backwardsList))
       
 #8. create boolean asking of "python" is in list of words 
-listofWords.find("Python") = True  
+listofWords.find("Python") 
 
 #9. Make list into bigger list using ech letter
 listofLetters =list(userText.lower())
@@ -38,3 +38,5 @@ total1Letter= listofLetters.count(firstLetter)
 print(f'')
 total2Letter=
 total3Letter=
+
+for letter in 
